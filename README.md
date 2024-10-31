@@ -1,8 +1,8 @@
 # Extract Transform and Load Exercise
 
-###### This Project demonstrates how the ETL proccesses take place using python.  This dataset has two files, t
+###### This Project demonstrates how the ETL proccesses take place using python.  This dataset has two files, with same number of columns.
 
-### THe procedures for these are
+#### The procedures for these are
 #### Data Extraction 
 ###### The data was extracted from  a csv file into pandas data frame
 
