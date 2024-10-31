@@ -1,4 +1,4 @@
-# Exract transform and Load exercise using python
+# Extract transform and Load exercise using python
 ---
 This mini project demonstrates the process of data extraction from a file and transformed into desired output(ETL), then the data is subsequently loaded into an sql database.
 
